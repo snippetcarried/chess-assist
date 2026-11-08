@@ -1,6 +1,4 @@
-
-# chess-assist
-chess.com companion tool — post-game analysis, accuracy stats, and # chess-assist
+ chess-assist
 
 chess.com companion tool — post-game analysis, accuracy stats, and board themes powered by Stockfish 18
 
@@ -60,9 +58,10 @@ chess.com companion tool — post-game analysis, accuracy stats, and board theme
 
 ## Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Create a new userscript and paste the contents of `chess-assist.user.js`
-3. Open [chess.com](https://www.chess.com) — the lavender bubble appears in the top-right corner
+1. Open [chess.com](https://www.chess.com) in your browser
+2. Open DevTools (`F12`) → Console
+3. Paste the contents of `chess-assist.user.js` and press Enter
+4. The lavender bubble appears in the top-right corner
 
 ---
 
@@ -99,4 +98,3 @@ MIT
 ---
 
 Built by [@snippetcarried](https://github.com/snippetcarried) · [meko.gg](https://meko.gg)
-board themes powered by Stockfish 18

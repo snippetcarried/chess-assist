@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34537955/README.md)
+
 # chess-assist
 chess.com companion tool — post-game analysis, accuracy stats, and # chess-assist
 

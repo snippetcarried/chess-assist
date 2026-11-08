@@ -97,4 +97,4 @@ MIT
 
 ---
 
-Built by [@snippetcarried](https://github.com/snippetcarried) · [meko.gg](https://meko.gg)
+Built by [@snippetcarried](https://github.com/snippetcarried) ·
